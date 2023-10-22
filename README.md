@@ -1,0 +1,1 @@
+This repository created for solution task from [Codewars.com](https://www.codewars.com/dashboard) resource. I like gnaw this nut-puzzles, when I have weekend. :)
